@@ -1,0 +1,51 @@
+{
+  "name": "restuarent_booking",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.18.0",
+    "@types/bcrypt": "^5.0.2",
+    "@types/jsonwebtoken": "^9.0.6",
+    "axios": "^1.7.7",
+    "bcrypt": "^5.1.1",
+    "cookies-next": "^4.2.1",
+    "jose": "^5.8.0",
+    "jsonwebtoken": "^9.0.2",
+    "next": "^14.2.5",
+    "prisma": "^5.18.0",
+    "react": "^18",
+    "react-datepicker": "^7.3.0",
+    "react-dom": "^18",
+    "react-hook-form": "^7.53.0",
+    "validator": "^13.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/validator": "^13.12.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krittibas-27/next_restuarent_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krittibas-27/next_restuarent_app/issues"
+  },
+  "homepage": "https://github.com/Krittibas-27/next_restuarent_app#readme"
+}
